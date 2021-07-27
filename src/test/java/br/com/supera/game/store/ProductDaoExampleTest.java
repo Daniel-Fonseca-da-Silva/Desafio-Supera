@@ -7,6 +7,8 @@ import com.github.dbunit.rules.api.configuration.DBUnit;
 import com.github.dbunit.rules.api.dataset.DataSet;
 import com.github.dbunit.rules.util.EntityManagerProvider;
 
+import br.com.supera.game.store.domain.Product;
+
 import org.junit.Rule;
 import org.junit.Test;
 import org.junit.runner.RunWith;
